@@ -8,7 +8,7 @@ Must be used with the lastest version of Swiss as of 1788 in order to use the in
 
 **PCB**
 
-Must be ordered with 1.2mm thickness with ENIG surface finish
+Must be ordered from fab such as jlcpcb with 1.2mm thickness with ENIG surface finish
 
 
 I used 10CM Female to Male dupont wires to connect the ENC28J60 to the pcb but regular wires can be directly soldered to the pcb and ENC28J60 as well, make sure to follow the pinout below.
