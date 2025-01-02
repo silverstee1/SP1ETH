@@ -7,6 +7,7 @@ Must be used with the lastest version of Swiss as of 1788 in order to use the in
 
 
 **PCB**
+
 Must be ordered with 1.2mm thickness with ENIG surface finish
 
 
