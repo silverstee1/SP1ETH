@@ -20,3 +20,7 @@ Pinout
 | SO | DI |
 | SI | DO |
 | INT | INT |
+
+![Pinout](https://github.com/user-attachments/assets/888f123f-e1b9-4f99-8cc1-d78d393ff442)
+
+![pcb](https://github.com/user-attachments/assets/eeed6fef-80bc-4758-b355-87f3437c7717)
