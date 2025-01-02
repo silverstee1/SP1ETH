@@ -12,9 +12,17 @@ I used 10CM Female to Male dupont wires but you can use whatever wire you want t
 Pinout
 
 ENC28J60  ->  Connector PCB
+
+GND      -    GND
+
 VCC      -    3v3
+
 CS       -    CS
+
 SCK      -    CLK
+
 SO       -    DI
+
 SI       -    DO
+
 INT      -    INT
