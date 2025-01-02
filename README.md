@@ -13,16 +13,16 @@ Pinout
 
 ENC28J60  ->  Connector PCB
 
-GND---------GND
+GND-----------GND
 
-VCC---------3v3
+VCC-----------3v3
 
-CS----------CS
+CS------------CS
 
-SCK---------CLK
+SCK-----------CLK
 
-SO----------DI
+SO------------DI
 
-SI----------DO
+SI------------DO
 
-INT---------INT
+INT-----------INT
