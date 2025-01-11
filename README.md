@@ -17,6 +17,14 @@ I also removed the little black retaining plastic on the ENC28J60 in order to pu
 
 The case is designed to just snap together without any hardware, printed on an FDM 3D printer in something stronger than PLA, I've used PLA+ as its less brittle.
 
+**BOM**
+
+| Item | Source |
+| --- | --- |
+| ENC28J60 Mini | https://www.aliexpress.us/item/2255800100119709.html |
+| 10CM Dupont Female to Male Wires | Amazon/Aliexpress |
+| PCB | JLCPCB |
+
 **Pinout**
 
 | ENC28J60 | Connector PCB |
