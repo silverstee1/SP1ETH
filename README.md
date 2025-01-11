@@ -23,7 +23,7 @@ The case is designed to just snap together without any hardware, printed on an F
 | --- | --- |
 | ENC28J60 Mini | https://www.aliexpress.us/item/2255800100119709.html |
 | 10CM Dupont Female to Male Wires | Amazon/Aliexpress |
-| PCB | JLCPCB |
+| 1.2MM PCB | JLCPCB/Fab House |
 
 **Pinout**
 
