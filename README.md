@@ -15,6 +15,8 @@ I used 10CM Female to Male dupont wires to connect the ENC28J60 Mini to the pcb 
 
 I also removed the little black retaining plastic on the ENC28J60 in order to push the dupont connectors closer to the pcb to allow more clearance when closing the case together but you can bend the pins some as I did in the images to help with the 2 case halves closing better.
 
+If using the 10Pin IDC cable instead of dupont wires there's no need to remove the black retaining plastic on the module as the IDC connector is short enough to close the 2 case halves together.
+
 The case is designed to just snap together without any hardware, printed on an FDM 3D printer in something stronger than PLA, I've used PLA+ as its less brittle.
 
 **BOM**
