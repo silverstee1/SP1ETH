@@ -22,7 +22,7 @@ The case is designed to just snap together without any hardware, printed on an F
 | Item | Source |
 | --- | --- |
 | ENC28J60 Mini | https://www.aliexpress.us/item/2255800100119709.html |
-| 10CM Dupont Female to Male Wires | Amazon/Aliexpress |
+| 10CM Dupont Female to Male Wires or 10Pin female IDC cable | Amazon/Aliexpress |
 | 1.2MM PCB | JLCPCB/Fab House |
 | Case Shell | 3D Printed |
 
@@ -41,6 +41,10 @@ The case is designed to just snap together without any hardware, printed on an F
 ![Pinout](https://github.com/user-attachments/assets/888f123f-e1b9-4f99-8cc1-d78d393ff442)
 
 ![pcb](https://github.com/user-attachments/assets/eeed6fef-80bc-4758-b355-87f3437c7717)
+
+![ENC28J60IDC-min](https://github.com/user-attachments/assets/d7dcb952-a885-4d9c-932e-d754810ea657)
+
+![20250125_231507-min](https://github.com/user-attachments/assets/4224f650-6c96-4a28-977b-4d61c45c030f)
 
 
 ![20250101_144940-min](https://github.com/user-attachments/assets/bade5464-e983-4122-9b84-47fe855f9afb)
