@@ -27,6 +27,7 @@ The case is designed to just snap together without any hardware, printed on an F
 | 10CM Dupont Female to Male Wires or 10Pin female IDC cable | Amazon/Aliexpress |
 | 1.2MM PCB | JLCPCB/Fab House |
 | Case Shell | 3D Printed |
+| Optional 20x6x2mm Oval Rubber Foot | https://www.aliexpress.us/item/3256807864916472.html |
 
 **Pinout**
 
