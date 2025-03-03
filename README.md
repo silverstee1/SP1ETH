@@ -70,5 +70,8 @@ The case is designed to just snap together without any hardware, printed on an F
 
 ![20250101_160939(0)-min](https://github.com/user-attachments/assets/81ff9e7a-e7a7-4c83-845d-8c722685f4c0)
 
+![rubberfoot-min](https://github.com/user-attachments/assets/42ff2678-ff30-4334-a712-2693ca613560)
+
+
 ![20250101_164624-min](https://github.com/user-attachments/assets/6144fe8b-a97b-4d00-8265-d2824a8188ae)
 
